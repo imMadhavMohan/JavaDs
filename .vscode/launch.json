@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch LevelOrder",
+            "request": "launch",
+            "mainClass": "LevelOrder",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch Inorder",
+            "request": "launch",
+            "mainClass": "Inorder",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch PostOrder",
+            "request": "launch",
+            "mainClass": "PostOrder",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch PreOrderTraver",
+            "request": "launch",
+            "mainClass": "PreOrderTraver",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch PreOrderTraver",
+            "request": "launch",
+            "mainClass": "BinaryTree.PreOrderTraver",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch TraverseTree",
+            "request": "launch",
+            "mainClass": "TraverseTree",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinaryTree_Traversal",
+            "request": "launch",
+            "mainClass": "BinaryTree.BinaryTree_Traversal",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch List",
+            "request": "launch",
+            "mainClass": "List",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch list",
+            "request": "launch",
+            "mainClass": "list",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Book",
+            "request": "launch",
+            "mainClass": "Book",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch Constructor_chaining",
+            "request": "launch",
+            "mainClass": "Constructor_chaining",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch Madhav",
+            "request": "launch",
+            "mainClass": "Madhav",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch Owner",
+            "request": "launch",
+            "mainClass": "Owner",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch SinglyLinkedList",
+            "request": "launch",
+            "mainClass": "SinglyLinkedList",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sll",
+            "request": "launch",
+            "mainClass": "Sll",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch child",
+            "request": "launch",
+            "mainClass": "child",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch cube",
+            "request": "launch",
+            "mainClass": "cube",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch encap",
+            "request": "launch",
+            "mainClass": "encap",
+            "projectName": "Java_Ds_78637052"
+        },
+        {
+            "type": "java",
+            "name": "Launch getter",
+            "request": "launch",
+            "mainClass": "getter",
+            "projectName": "Java_Ds_78637052"
+        }
+    ]
+}
